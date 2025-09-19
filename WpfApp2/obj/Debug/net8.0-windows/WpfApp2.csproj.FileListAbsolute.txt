@@ -1,0 +1,8 @@
+C:\Users\danil\source\repos\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\danil\source\repos\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\danil\source\repos\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\danil\source\repos\WpfApp2\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_MarkupCompile.lref
+C:\Users\danil\source\repos\YusupovD.A.----23-02\WpfApp2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\danil\source\repos\YusupovD.A.----23-02\WpfApp2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\danil\source\repos\YusupovD.A.----23-02\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\danil\source\repos\YusupovD.A.----23-02\WpfApp2\obj\Debug\net8.0-windows\WpfApp2_MarkupCompile.lref
