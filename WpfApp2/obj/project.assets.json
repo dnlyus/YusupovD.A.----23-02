@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danil\\source\\repos\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+      "projectUniqueName": "C:\\Users\\danil\\source\\repos\\YusupovD.A.----23-02\\WpfApp2\\WpfApp2.csproj",
       "projectName": "WpfApp2",
-      "projectPath": "C:\\Users\\danil\\source\\repos\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+      "projectPath": "C:\\Users\\danil\\source\\repos\\YusupovD.A.----23-02\\WpfApp2\\WpfApp2.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danil\\source\\repos\\WpfApp2\\WpfApp2\\obj\\",
+      "outputPath": "C:\\Users\\danil\\source\\repos\\YusupovD.A.----23-02\\WpfApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
